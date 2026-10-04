@@ -1,8 +1,8 @@
-___
+---
 layout: page
 title: "About Me"
 permalink: /about/
-___
+---
 
 HI, I’M NIKITA 
 Thank you for visiting my page! 
