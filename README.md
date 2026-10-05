@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Page Name"
+---
+
 # Welcome to my personally built website
 
 Hi, I'm Nikita, I help clients achieve their goals without anxiety.
