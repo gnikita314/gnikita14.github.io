@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Page Name"
+title: "Landing Page"
 ---
 
 # Welcome to my personally built website
