@@ -4,4 +4,4 @@ title: "Kids Books"
 permalink: /kidsbooks/
 ---
 
-My recommended kids books:
+Recommended kids books:
