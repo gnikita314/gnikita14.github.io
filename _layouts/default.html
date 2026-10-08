@@ -4,12 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | default: site.title }}</title>
+
+  <style>
+    main ul, main ol {
+      list-style-position: inside;
+      padding-left: 0;
+    }
+  </style>
+  
 </head>
 <body>
 
   {% include header.html %}
 
-  <main style="max-width: 900px; margin: 0 auto; padding: 20px;">
+  <main style="max-width: 900px; margin: 0 auto; padding: 20px; text-align: center;">
     {{ content }}
   </main>
 
