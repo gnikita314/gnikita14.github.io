@@ -25,4 +25,4 @@ I enjoy investing, taking and editing photos, reading, hiking, swimming, coffee,
 
 In addition to English, I speak Russian, and some Japanese
 
-<img src="/images/vietnam.jpeg" alt="Profile Picture" style="max-width: 300px; border-radius: 8px; margin: 20px auto; display: block;">
+<img src="/images/IMG_1751.jpeg" alt="Profile Picture" style="max-width: 300px; border-radius: 8px; margin: 20px auto; display: block;">
