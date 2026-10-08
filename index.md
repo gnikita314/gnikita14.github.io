@@ -3,9 +3,9 @@ layout: default
 title: "Home"
 ---
 
-# Welcome to my personally built website
+# DO YOU WANT TO ACCELERATE YOUR CAREER?
 
-Hi, I'm Nikita, I help clients achieve their goals without anxiety.
+Luck is what happens when preparation meets opportunity.
 
 ## Portfolio Projects
 - **University interview preparation.** Yuka came to me barely able to answer a question in a complete sentence. After our coaching sessions she was able to successfully pass multiple university entrance interviews and received an offer from her top choice. 
