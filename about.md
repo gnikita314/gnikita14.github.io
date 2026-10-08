@@ -13,16 +13,5 @@ My work has included helping entrepreneurs save seven figures in taxes, building
 
 This diverse experience has equipped me with a broad skill set, deep knowledge, and strong connections; all of which I actively leverage to support the success of those I work with.
 
-I live by the following philosophy: 
-
-To move is to live. Thus it is important that we regularly exercise physically, mentally, and emotionally. 
-
-A little more about me:
-
-10+ years' experience teaching, coaching, and training
-
-I enjoy investing, taking and editing photos, reading, hiking, swimming, coffee, and more.
-
-In addition to English, I speak Russian, and some Japanese
 
 <img src="/images/IMG_1751.jpeg" alt="Profile Picture" style="max-width: 300px; border-radius: 8px; margin: 20px auto; display: block;">
